@@ -5,5 +5,12 @@
     "**/.sf": true,
     "**/.sfdx": true
   },
-  "xml.preferences.showSchemaDocumentationType": "none"
+  "xml.preferences.showSchemaDocumentationType": "none",
+  "workbench.colorCustomizations": {
+    "statusBar.backgroundPrevious": "#133308",
+    "activityBar.backgroundPrevious": "#133308",
+    "statusBar.background": "#210c38",
+    "activityBar.background": "#210c38"
+  },
+  "salesforcedx-vscode-core.show-cli-success-msg": false
 }
